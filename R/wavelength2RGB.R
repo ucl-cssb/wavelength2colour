@@ -1,3 +1,9 @@
+#' Turn a wavelength (in nm) in to an RGB vector.
+#'
+#' @param wavelength a numerical wavelength to convert to RGB.
+#'
+#' @return a vector of three numeric values representing the RGB components.
+#' @export
 wavelength2RGB <- function(wavelength){
   # CONST
   gamma        <-   0.80
