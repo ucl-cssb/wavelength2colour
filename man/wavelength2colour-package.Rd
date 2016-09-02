@@ -9,6 +9,7 @@
 \packageDescription{wavelength2colour}
 }
 \details{
+Based on the algorithm from \url{http://www.efg2.com/Lab/ScienceAndEngineering/Spectra.htm}
 }
 \author{
 \packageAuthor{wavelength2colour}
@@ -16,6 +17,7 @@
 Maintainer: \packageMaintainer{wavelength2colour}
 }
 \references{
+\url{http://www.efg2.com/Lab/ScienceAndEngineering/Spectra.htm}
 }
 
 \keyword{ package }
