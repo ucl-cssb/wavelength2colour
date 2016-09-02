@@ -13,6 +13,6 @@ wavelength2RGB(wavelength)
 a vector of three numeric values representing the RGB components.
 }
 \description{
-Turn a wavelength (in nm) in to an RGB vector.
+Code adapted from \url{http://www.efg2.com/Lab/ScienceAndEngineering/Spectra.htm}
 }
 
